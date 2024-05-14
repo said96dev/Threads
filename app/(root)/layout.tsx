@@ -1,5 +1,5 @@
 
-import { Bottombar, LeftSidebar, RightSidebar, Topbar } from "@/components";
+import { Bottombar, LeftSidebar, RightSidebar, Topbar } from "@/components/index";
 import { ClerkProvider } from "@clerk/nextjs";
 import { dark } from "@clerk/themes";
 
